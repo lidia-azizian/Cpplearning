@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\Anna\source\repos\RockScissorsPaperLizardSpock_game\RockScissorsPaperLizardSpock_game\Source.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Anna\source\repos\RockScissorsPaperLizardSpock_game\RockScissorsPaperLizardSpock_game\Source.cpp(26): warning C4715: 'computer_choice': not all control paths return a value
-  RockScissorsPaperLizardSpock_game.vcxproj -> C:\Users\Anna\source\repos\RockScissorsPaperLizardSpock_game\Debug\RockScissorsPaperLizardSpock_game.exe
